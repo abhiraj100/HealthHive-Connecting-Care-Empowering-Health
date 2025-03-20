@@ -1,0 +1,5 @@
+admin: https://health-hive-connecting-care-empowering-health-admin-ui.vercel.app/
+
+client : https://health-hive-connecting-care-empowering-health-client-ui.vercel.app/
+
+backend : https://healthhive-connecting-care-empowering-lsdp.onrender.com/

@@ -84,6 +84,144 @@ export const specialityData = [
   },
 ];
 
+export const diseasesAndSymptoms = [
+  {
+    speciality: "General Physician",
+    image: General_physician,
+    diseases: [
+      "Common Cold & Flu (सामान्य सर्दी और फ्लू)",
+      "Hypertension (High Blood Pressure) (उच्च रक्तचाप)",
+      "Diabetes (मधुमेह)",
+      "Asthma (दमा)",
+      "Migraine (माइग्रेन)",
+    ],
+  },
+  {
+    speciality: "Gynecologist",
+    image: Gynecologist,
+    diseases: [
+      "Polycystic Ovary Syndrome (PCOS) (पॉलीसिस्टिक ओवरी सिंड्रोम)",
+      "Endometriosis (एंडोमेट्रियोसिस)",
+      "Uterine Fibroids (गर्भाशय फाइब्रॉइड्स)",
+      "Pelvic Inflammatory Disease (PID) (पेल्विक सूजन रोग)",
+      "Menstrual Disorders (मासिक धर्म विकार)",
+    ],
+  },
+  {
+    speciality: "Dermatologist",
+    image: Dermatologist,
+    diseases: [
+      "Acne (मुंहासे)",
+      "Eczema (एक्जिमा)",
+      "Psoriasis (सोरायसिस)",
+      "Fungal Infections (Ringworm, Athlete's Foot) (फंगल संक्रमण - दाद, एथलीट फुट)",
+      "Skin Cancer (त्वचा कैंसर)",
+    ],
+  },
+  {
+    speciality: "Pediatrician",
+    image: Pediatricians,
+    diseases: [
+      "Chickenpox (चेचक)",
+      "Measles (खसरा)",
+      "Whooping Cough (Pertussis) (काली खांसी)",
+      "Hand, Foot, and Mouth Disease (हाथ, पैर और मुंह की बीमारी)",
+      "Mumps (गलसुआ)",
+    ],
+  },
+  {
+    speciality: "Neurologist",
+    image: Neurologist,
+    diseases: [
+      "Epilepsy (मिर्गी)",
+      "Stroke (स्ट्रोक)",
+      "Parkinson’s Disease (पार्किंसंस रोग)",
+      "Multiple Sclerosis (MS) (मल्टीपल स्क्लेरोसिस)",
+      "Alzheimer’s Disease (अल्जाइमर रोग)",
+    ],
+  },
+  {
+    speciality: "Gastroenterologist",
+    image: Gastroenterologist,
+    diseases: [
+      "Gastroesophageal Reflux Disease (GERD) (गैस्ट्रोएसोफेगल रिफ्लक्स रोग)",
+      "Irritable Bowel Syndrome (IBS) (इर्रिटेबल बॉवेल सिंड्रोम)",
+      "Ulcers (अल्सर)",
+      "Hepatitis (हेपेटाइटिस)",
+      "Crohn’s Disease (क्रोहन रोग)",
+    ],
+  },
+];
+
+// export const diseasesAndSymptoms = [
+//   {
+//     speciality: "General Physician",
+//     image: General_physician,
+//     diseases: [
+//       "Common Cold & Flu",
+//       "Hypertension (High Blood Pressure)",
+//       "Diabetes",
+//       "Asthma",
+//       "Migraine",
+//     ],
+//   },
+//   {
+//     speciality: "Gynecologist",
+//     image: Gynecologist,
+//     diseases: [
+//       "Polycystic Ovary Syndrome (PCOS)",
+//       "Endometriosis",
+//       "Uterine Fibroids",
+//       "Pelvic Inflammatory Disease (PID)",
+//       "Menstrual Disorders",
+//     ],
+//   },
+//   {
+//     speciality: "Dermatologist",
+//     image: Dermatologist,
+//     diseases: [
+//       "Acne",
+//       "Eczema",
+//       "Psoriasis",
+//       "Fungal Infections (Ringworm, Athlete's Foot)",
+//       "Skin Cancer",
+//     ],
+//   },
+//   {
+//     speciality: "Pediatrician",
+//     image: Pediatricians,
+//     diseases: [
+//       "Chickenpox",
+//       "Measles",
+//       "Whooping Cough (Pertussis)",
+//       "Hand, Foot, and Mouth Disease",
+//       "Mumps",
+//     ],
+//   },
+//   {
+//     speciality: "Neurologist",
+//     image: Neurologist,
+//     diseases: [
+//       "Epilepsy",
+//       "Stroke",
+//       "Parkinson’s Disease",
+//       "Multiple Sclerosis (MS)",
+//       "Alzheimer’s Disease",
+//     ],
+//   },
+//   {
+//     speciality: "Gastroenterologist",
+//     image: Gastroenterologist,
+//     diseases: [
+//       "Gastroesophageal Reflux Disease (GERD)",
+//       "Irritable Bowel Syndrome (IBS)",
+//       "Ulcers",
+//       "Hepatitis",
+//       "Crohn’s Disease",
+//     ],
+//   },
+// ];
+
 export const doctors = [
   {
     _id: "doc1",
